@@ -37,5 +37,4 @@ You'll also need a YouTube Data API v3 key. Obtain it from [here](https://develo
     ```
 
 ### 📄 Example Output
-Playability Status: OK
 Music available: False (this means that the YouTube link is not music-related)
