@@ -13,7 +13,7 @@ You'll also need a YouTube Data API v3 key. Obtain it from [here](https://develo
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/yourusername/yourrepository.git](https://github.com/netistul/youtube-music.git
     ```
    
 2. **Install Required Packages**
